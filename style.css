@@ -101,6 +101,6 @@ li {
 }
 
 a:link {
-    color: #FF0000;
+    color: red;
     text-decoration: underline;
 }
